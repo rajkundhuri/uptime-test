@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: UAT1
     url: https://uat1.dev.aliyademo.io/
+  - name: PROD 
+    url: https://apply-smb.pnc.aliya.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
