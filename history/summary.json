@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/uat1.dev.aliyademo.io.ico",
     "slug": "uat-1",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 329,
     "timeDay": 413,
     "timeWeek": 329,
     "timeMonth": 329,
     "timeYear": 329,
-    "dailyMinutesDown": {
-      "2024-11-12": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PROD",
@@ -25,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/apply-smb.pnc.aliya.io.ico",
     "slug": "prod",
     "status": "down",
-    "uptime": "76.97%",
-    "uptimeDay": "68.24%",
-    "uptimeWeek": "76.97%",
-    "uptimeMonth": "76.97%",
-    "uptimeYear": "76.97%",
+    "uptime": "72.00%",
+    "uptimeDay": "58.72%",
+    "uptimeWeek": "72.00%",
+    "uptimeMonth": "72.00%",
+    "uptimeYear": "72.00%",
     "time": 270,
     "timeDay": 0,
     "timeWeek": 270,
     "timeMonth": 270,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2024-11-12": 457
+      "2024-11-13": 97,
+      "2024-11-12": 498
     }
   }
 ]
