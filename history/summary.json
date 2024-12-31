@@ -4,7 +4,7 @@
     "url": "https://uat1.dev.aliyademo.io/",
     "icon": "https://icons.duckduckgo.com/ip3/uat1.dev.aliyademo.io.ico",
     "slug": "uat-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 348,
     "timeMonth": 366,
     "timeYear": 368,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-31": 0
+    }
   },
   {
     "name": "PROD",
@@ -26,7 +28,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "54.62%",
+    "uptimeMonth": "57.33%",
     "uptimeYear": "0.00%",
     "time": 345,
     "timeDay": 256,
